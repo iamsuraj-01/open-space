@@ -14,7 +14,7 @@
 }
 
 .bg-secondary-theme {
-  background: #0b5ed7;
+  background: #fd00f9;
 }
 
 /* Text Colors */
@@ -23,7 +23,7 @@
 }
 
 .text-secondary-theme {
-  color: #0b5ed7;
+  color: #fd00f9;
 }
 
 /* Text Alignment */
@@ -71,8 +71,8 @@ a {
 }
 .btn-theme:hover {
   color: #FFFFFF;
-  background-color: #0b5ed7;
-  border-color: #0b5ed7;
+  background-color: #fd00f9;
+  border-color: #fd00f9;
   box-shadow: inset 0 0 0 0 #06A3DA;
 }
 
