@@ -1,4 +1,4 @@
-Open Space is a community where people connect and engage in audio conversations, share knowledge, and build networks. Whether you’re here to share information or thoughts on various topics, practice and enhance your English, make new friends, discuss your favorite hobbies and interests, or simply enjoy meaningful conversations, you’re in the right place. Welcome to Open Space, where knowledge is shared, friendships are formed, and meaningful conversations are the norm.
+Open Space is a community where people connect and engage in audio conversations, share knowledge, and build networks. Whether you’re here to share information or thoughts on various topics, practice and enhance your English, make new friends, discuss your favourite hobbies and interests, or simply enjoy meaningful conversations, you’re in the right place. Welcome to Open Space, where knowledge is shared, friendships are formed, and meaningful conversations are the norm.
 
 Here’s What You Can Do Here:
 
