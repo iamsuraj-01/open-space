@@ -17,6 +17,20 @@ Share your thoughts, ideas, and captivating content, such as articles, blogs, in
 Rooms
 Participate in group chats for text-based discussions, deep conversations, quick exchanges, or casual chats through the rooms channel.
 
+Here Are the Rules of the Community:
+
+Respect Everyone
+Treat all members with respect. Harassment, discrimination, or hate speech will not be tolerated.
+
+No Inappropriate Content
+Do not share offensive, explicit, or inappropriate content.
+
+No Self-Promotion
+Do not use the community for promoting your own content or services without permission from the Admin.
+
+Report Issues
+If you notice someone breaking the rules, take a screenshot or recording and send it to the Admin or Moderators. Necessary actions, including banning, will be taken.
+
 Thank you for being a part of Open Space. Let’s keep this community friendly, respectful, and enjoyable for everyone!
 
 Website: https://iamsuraj-01.github.io/open-space/
