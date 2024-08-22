@@ -36,11 +36,3 @@ Do not use the community for promoting your own content or services without perm
 
 Report Issues
 If you notice someone breaking the rules, take a screenshot or recording and send it to the Admin or Moderators. Necessary actions, including banning, will be taken.
-
-Here is the Community Team:
-
-@iamsuraj_01 
-Admin who oversees and manages operations of this community. DM if you have any queries. 
-
-@moderator1 @moderator2 @moderator3 
-Moderators who enforce the standards and safety of the community.
