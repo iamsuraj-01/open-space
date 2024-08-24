@@ -36,6 +36,4 @@ If you notice someone breaking the rules, take a screenshot or recording and sen
 
 Thank you for being a part of Open Space. Let’s keep this community friendly, respectful, and enjoyable for everyone!
 
-Website: https://iamsuraj-01.github.io/open-space/
-
 Invite Link: https://discord.gg/xGY5TVMQmU
