@@ -6,19 +6,13 @@ Open Space is a community where people connect and engage in audio conversations
 Here’s What You Can Do Here:
 
 Activities:
-Participate in various collaborative activities such as group study sessions, project work, language learning, and more by sharing your screen and communicating. Additionally, enjoy fun activities like live streaming, playing games, sketching, and more through the activities channel.
+Participate in various collaborative activities such as group study sessions, project work, language learning, and more. Additionally, enjoy fun activities like live streaming, playing games, sketching, and more through the activities channel.
 
 Conversations:
 Engage in meaningful audio conversations on a wide range of topics, including art, culture, business, gaming, news, technology, or even light-hearted and random discussions through the conversations channel.
 
-Events:
-Create and schedule a variety of events or topics, complete with a title and description. Whether for upcoming activities such as working on a project together, group study, live streaming, or for audio conversations on topics like technological advancements, climate change, or the latest news, you can manage it all through the events section.
-
-Posts:
-Share your thoughts, ideas, and captivating content, such as articles, blogs, information, videos, and more, through the posts channel.
-
 Rooms:
-Participate in group chats for text-based discussions, deep conversations, quick exchanges, or casual chats through the rooms channel.
+Participate in group chats to share your thoughts, ideas, and captivating content, or simply enjoy casual chitchat through the rooms channel.
 
 Here Are the Rules:
 
