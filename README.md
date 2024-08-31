@@ -5,28 +5,11 @@ Open Space is a community where people connect and engage in audio conversations
 
 Here’s What You Can Do Here:
 
-Activities:
-Participate in various collaborative activities such as group study sessions, project work, language learning, and more. Additionally, enjoy fun activities like live streaming, playing games, sketching, and more through the activities channel.
+Activities: Engage in a variety of collaborative activities, such as group study sessions, project work, or fun activities like live streaming, playing games, etc.
 
-Conversations:
-Engage in meaningful audio conversations on a wide range of topics, including art, culture, business, gaming, news, technology, or even light-hearted and random discussions through the conversations channel.
+Conversations: Engage in meaningful audio conversations on topics related to art, culture, business, health, gaming, technology, etc., or enjoy light-hearted and random discussions.
 
-Rooms:
-Participate in group chats to share your thoughts, ideas, and captivating content, or simply enjoy casual chitchat through the rooms channel.
-
-Here Are the Rules:
-
-Respect Everyone:
-Treat all members with respect. Harassment, discrimination, or hate speech will not be tolerated.
-
-No Inappropriate Content:
-Do not share offensive, explicit, or inappropriate content.
-
-No Self-Promotion:
-Do not use the community for promoting your own content or services without permission from the Admin.
-
-Report Issues:
-If you notice someone breaking the rules, take a screenshot or recording and send it to the Admin or Moderators. Necessary actions, including banning, will be taken.
+Chats: Engage in group chats to share your thoughts, ideas, and interesting content, or simply enjoy casual chats.
 
 Thank you for being a part of Open Space. Let’s keep this community friendly, respectful, and enjoyable for everyone!
 
