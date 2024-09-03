@@ -19,6 +19,7 @@ Report Violations: If you see someone breaking the rules, capture a screenshot o
 Thank you for being a part of Open Space. Let’s keep this community friendly, respectful, and enjoyable for everyone!
 
 Invite Link: https://discord.gg/xGY5TVMQmU
+
 ---------------------------------------------------------------------------------------------------------------------------
 
 Technology: Bootstrap 5, Sass, Font Awesome 5
