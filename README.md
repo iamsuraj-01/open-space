@@ -1,30 +1,28 @@
-Open Space is a community where people connect and engage in audio conversations, share knowledge, and build networks. Whether you’re here to share information or thoughts on various topics, practice and enhance your English, make new friends, discuss your favourite hobbies and interests, or simply enjoy meaningful conversations, you’re in the right place. Welcome to Open Space, where knowledge is shared, friendships are formed, and meaningful conversations are the norm.
+Open Space is a community where people connect, engage in audio conversations, share knowledge, and build networks. Whether you’re here to share information, thoughts, or knowledge on various topics, practice and enhance your English, show up with your creativity, participate in activities, or make new connections, you’re in the right place. Welcome to Open Space, where knowledge is shared, friendships are formed, and meaningful conversations are the norm.
 
 Here’s What You Can Do Here:
 
-Activities: Engage in a variety of collaborative activities, such as group study sessions, project work, or fun activities like live streaming, playing games, etc.
+Activities: Engage in a variety of collaborative activities, such as group study sessions, project work, or fun activities like live streaming, playing games, and more.
 
-Conversations: Engage in meaningful audio conversations on topics related to art, culture, business, health, gaming, technology, etc., or enjoy light-hearted and random discussions.
+Conversations: Join in meaningful audio conversations on topics like art, culture, business, health, gaming, technology, and more, or enjoy light-hearted and random discussions.
 
-Chats: Engage in group chats to share your thoughts, ideas, and interesting content, or simply enjoy casual chats.
+Chats: Engage in group chats to share your thoughts, ideas, and interesting content, or simply enjoy casual conversations. You can also use this space for self-promotion, whether it's sharing your social media channels, posts, or any other content you're passionate about. This community encourages mutual support, so feel free to showcase your work and connect with others!
 
 Here Are the Rules:
 
-Respect Everyone:
-Treat all members with respect. Harassment, discrimination, or hate speech will not be tolerated.
+Respect Everyone: Treat all members with respect. Harassment, discrimination, or hate speech will not be tolerated.
 
-No Inappropriate Content:
-Do not share offensive, explicit, or inappropriate content.
+No Inappropriate Content: Do not share offensive, explicit, or inappropriate content.
 
-No Self-Promotion:
-Do not use the community for promoting your own content or services without permission from the Admin.
+No Self-Promotion: Do not use the community to promote your own content or services without permission from the Admin.
 
-Report Issues:
-If you notice someone breaking the rules, take a screenshot or recording and send it to the Admin or Moderators. Necessary actions, including banning, will be taken.
+Report Issues: If you notice someone breaking the rules, take a screenshot or recording and send it to the Admin or Moderators. Necessary actions, including banning, will be taken.
 
 Thank you for being a part of Open Space. Let’s keep this community friendly, respectful, and enjoyable for everyone!
 
 Invite Link: https://discord.gg/xGY5TVMQmU
+
+---------------------------------------------------------------------------------------------------------------------------
 
 Technology: Bootstrap 5, Sass, Font Awesome 5
 Extensions installed on Visual Studio Code: Live Sass Compiler (Glenn Marks) to run Sass, and Live Server (Ritwick Dey) to view output live (optional).
