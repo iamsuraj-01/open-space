@@ -1,4 +1,4 @@
-OpenSpace is a community for all learners and intellectuals to come together, share knowledge, and build networks. It's a place where knowledge is shared, friendships are formed, and meaningful conversations are the norm.
+Open Space is a community for all learners and intellectuals to come together, share knowledge, and build networks. It's a place where knowledge is shared, friendships are formed, and meaningful conversations are the norm.
 
 Activities:
 Conversations: Participate in meaningful discussions on topics like art, culture, business, health, gaming, technology, and more, or enjoy light-hearted and random conversations.
