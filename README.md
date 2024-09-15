@@ -1,10 +1,10 @@
-Open Space is a community for all learners and intellectuals to come together, share knowledge, and build networks. It's a place where knowledge is shared, friendships are formed, and meaningful conversations are the norm.
+OpenSpace is a community for all learners and intellectuals to come together, share knowledge, and build networks. It's a place where knowledge is shared, friendships are formed, and meaningful conversations are the norm.
 
 Activities:
 
-Conversations: Participate in meaningful discussions on topics like art, culture, business, health, gaming, technology, and more, or enjoy light-hearted and random conversations.
+Conversations: Participate in meaningful discussions on topics like art, culture, business, health, technology, gaming, and more.
 
-Chats: Join group chats to share knowledge, interesting content, or simply enjoy casual chit-chat. Self-promotion is also encouraged here; share your content or any work you are passionate about. This community values mutual support, so feel free to showcase your work and support one another.
+Chats: Participate in group chats to share knowledge, interesting content, promote your work, or simply enjoy casual chit-chat.
 
 Rules:
 
