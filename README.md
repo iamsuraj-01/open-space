@@ -4,7 +4,7 @@ Activities:
 
 Conversations: Participate in meaningful discussions on topics like art, culture, business, health, gaming, technology, and more, or enjoy light-hearted and random conversations.
 
-Chats: Join group chats to share knowledge, interesting content, or simply enjoy casual chit-chat. Self-promotion is also encouraged here; share your content or any work you are passionate about. This community values mutual support, so feel free to showcase your work and support one another.
+Chats: Join group chats to share knowledge, interesting content, or simply enjoy casual chit-chat. Self-promotion is also encouraged here, share your content or any work you are passionate about. This community values mutual support, so feel free to showcase your work and support one another.
 
 Rules:
 
