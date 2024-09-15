@@ -23,19 +23,33 @@ https://discord.gg/xGY5TVMQmU
 List of conversation:
 
 Art & Culture
+
 Books & Reading
+
 Branding & Marketing
+
 Business & Finance
+
 English Practice
+
 Group Discussion
+
 Health & Wellness
+
 Movies & Series
+
 Music & Singing
+
 News & Events
+
 Random Conversation
+
 Science & Technology
+
 Spirituality & Philosophy
+
 Sports & Gaming
+
 Travel & Adventure
 
 Technology: Bootstrap 5, Sass, Font Awesome 5
