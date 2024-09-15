@@ -1,12 +1,10 @@
-Open Space is a community where people connect, engage in audio conversations, share knowledge, and build networks. Whether you’re here to share information, thoughts, or knowledge on various topics, practice and enhance your English, show up with your creativity, participate in activities, or make new connections, you’re in the right place. Welcome to Open Space, where knowledge is shared, friendships are formed, and meaningful conversations are the norm.
+Open Space is a community for all learners and intellectuals to come together, share knowledge, and build networks. Welcome to Open Space, where knowledge is shared, friendships are formed, and meaningful conversations are the norm.
 
 Here’s What You Can Do Here:
 
-Activities: Engage in a variety of collaborative activities, such as group study sessions, project work, or fun activities like live streaming, playing games, and more.
+Conversations: Participate in meaningful conversations on topics like art, culture, business, health, gaming, technology, and more, or enjoy light-hearted and random discussions.
 
-Conversations: Participate in meaningful audio conversations on topics like art, culture, business, health, gaming, technology, and more, or enjoy light-hearted and random discussions.
-
-Chats: Join group chats to share knowledge, interesting content, or simply enjoy casual chit-chats. You can also use this space for self-promotion, whether it’s sharing your social media channels, posts, or any other content you’re passionate about. This community encourages mutual support, so feel free to showcase your work and support each other.
+Chats: Participate in group chats to share knowledge, interesting content, or simply enjoy casual chit-chat. Self-promotion is also encouraged here, so you can share your content or any work you are passionate about. This community values mutual support, so feel free to showcase your work and support one another.
 
 Here Are the Rules:
 
