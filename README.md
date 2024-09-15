@@ -20,5 +20,23 @@ https://discord.gg/xGY5TVMQmU
 
 ---------------------------------------------------------------------------------------------------------------------------
 
+List of conversation:
+
+Art & Culture
+Books & Reading
+Branding & Marketing
+Business & Finance
+English Practice
+Group Discussion
+Health & Wellness
+Movies & Series
+Music & Singing
+News & Events
+Random Conversation
+Science & Technology
+Spirituality & Philosophy
+Sports & Gaming
+Travel & Adventure
+
 Technology: Bootstrap 5, Sass, Font Awesome 5
 Extensions installed on Visual Studio Code: Live Sass Compiler (Glenn Marks) to run Sass, and Live Server (Ritwick Dey) to view output live (optional).
