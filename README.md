@@ -2,19 +2,20 @@ OpenSpace is a community for all learners and intellectuals to come together, sh
 
 Activities:
 
-(1) Conversations: Participate in meaningful discussions on topics like art, culture, business, health, technology, gaming, and more.
+• Conversations: Participate in meaningful discussions on topics like art, culture, business, health, technology, gaming, and more.
 
-(2) Chats: Participate in group chats to share knowledge, interesting content, promote your work, or simply enjoy casual chit-chat.
+• Chats: Participate in group chats to share knowledge, interesting content, promote your work, or simply enjoy casual chit-chat.
 
 Rules:
 
-(1) Respect Everyone: Treat all members with respect. Any form of harassment, discrimination, or hate speech will not be tolerated.
+• Respect Everyone: Treat all members with respect. Any form of harassment, discrimination, or hate speech will not be tolerated.
 
-(2) No Inappropriate Content: Do not share offensive or inappropriate content, including anything that could be harmful or disturbing.
+• No Inappropriate Content: Do not share offensive or inappropriate content, including anything that could be harmful or disturbing.
 
 Thank you for being a part of OpenSpace. Let’s keep this community friendly, respectful, and enjoyable for everyone!
 
 Follow Us:
+
 https://discord.gg/xGY5TVMQmU
 
 ---------------------------------------------------------------------------------------------------------------------------
