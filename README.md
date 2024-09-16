@@ -14,7 +14,7 @@ Rules:
 
 Thank you for being part of OpenSpace! Let's keep this community friendly, respectful, and enjoyable for everyone!
 
-Follow Us:
+Join Us:
 
 https://discord.gg/xGY5TVMQmU
 
