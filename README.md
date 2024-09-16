@@ -10,7 +10,7 @@ Rules:
 
 • Respect Everyone: Treat all members with kindness and respect. Any form of harassment, discrimination, or hate speech will not be tolerated.
 
-• Meaningful Content: Share only relevant, appropriate, and meaningful content. Do not share anything offensive, disturbing, or inappropriate.
+• Respectful Sharing: Share only relevant, appropriate, and meaningful content. Do not share anything offensive, disturbing, or inappropriate.
 
 Thank you for being part of OpenSpace! Let's keep this community friendly, respectful, and enjoyable for everyone!
 
