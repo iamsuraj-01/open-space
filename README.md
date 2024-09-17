@@ -1,3 +1,9 @@
+All in One Community is a vibrant and inclusive space where diverse groups come together in one place. It’s a place where you can explore a variety of groups or communities related to art, business, culture, education, finance, gaming, health, music, sports, technology, and more, all within a single, connected environment. Whether you’re looking to share knowledge, connect with like-minded individuals, build networks, or find opportunities to grow professionally, the All in One Community offers something for everyone, making it easy to find and engage with the topics and communities that matter most to you.
+
+Join us: https://chat.whatsapp.com/Bq9b2zMrZRF7GerrNzJt3Q
+
+---------------------------------------------------------------------------------------------------------------------------
+
 OpenSpace is a community for learners and intellectuals to come together, share knowledge, and build networks. It's a place where knowledge is shared, friendships are formed, and meaningful conversations are the norm.
 
 Activities:
@@ -15,14 +21,6 @@ Rules:
 Thank you for being part of OpenSpace! Let's keep this community friendly, respectful, and enjoyable for everyone!
 
 Join Us: https://discord.gg/xGY5TVMQmU
-
----------------------------------------------------------------------------------------------------------------------------
-
-All in one Community:
-
-All in One Community is a vibrant and inclusive space where diverse groups come together in one place. It’s a place where you can explore a variety of groups or communities related to art, business, culture, education, finance, gaming, health, music, sports, technology, and more, all within a single, connected environment. Whether you’re looking to share knowledge, connect with like-minded individuals, build networks, or find opportunities to grow professionally, the All in One Community offers something for everyone, making it easy to find and engage with the topics and communities that matter most to you.
-
-Join us: https://chat.whatsapp.com/Bq9b2zMrZRF7GerrNzJt3Q
 
 ---------------------------------------------------------------------------------------------------------------------------
 
