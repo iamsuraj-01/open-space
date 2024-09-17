@@ -20,37 +20,13 @@ https://discord.gg/xGY5TVMQmU
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-Conversation:
+All in one Community:
 
-Art & Culture
+All in One Community is a vibrant and inclusive space where diverse groups come together in one place. It’s a place where you can explore a variety of groups or communities related to art, business, culture, education, finance, gaming, health, music, sports, technology, and more, all within a single, connected environment. Whether you’re looking to share knowledge, connect with like-minded individuals, build networks, or find opportunities to grow professionally, the All in One Community offers something for everyone, making it easy to find and engage with the topics and communities that matter most to you.
 
-Books & Reading
+Join us: https://chat.whatsapp.com/Bq9b2zMrZRF7GerrNzJt3Q
 
-Branding & Marketing
-
-Business & Finance
-
-English Practice
-
-Group Discussion
-
-Health & Wellness
-
-Movies & Series
-
-Music & Singing
-
-News & Events
-
-Random Conversation
-
-Science & Technology
-
-Spirituality & Philosophy
-
-Sports & Gaming
-
-Travel & Adventure
+---------------------------------------------------------------------------------------------------------------------------
 
 Technology: Bootstrap 5, Sass, Font Awesome 5
 Extensions installed on Visual Studio Code: Live Sass Compiler (Glenn Marks) to run Sass, and Live Server (Ritwick Dey) to view output live (optional).
