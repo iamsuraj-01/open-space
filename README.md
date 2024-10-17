@@ -4,7 +4,7 @@ Join us: https://chat.whatsapp.com/Bq9b2zMrZRF7GerrNzJt3Q
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-OpenSpace is a community for learners and intellectuals to come together, share knowledge, and build networks. It's a place where knowledge is shared, friendships are formed, and meaningful conversations are the norm.
+Open Space is a community for learners and intellectuals to come together, share knowledge, and build networks. It's a place where knowledge is shared, friendships are formed, and meaningful conversations are the norm.
 
 Activities:
 
@@ -18,7 +18,7 @@ Rules:
 
 • Respectful Sharing: Share only relevant, appropriate, and meaningful content. Do not share anything offensive, disturbing, or inappropriate.
 
-Thank you for being part of OpenSpace! Let's keep this community friendly, respectful, and enjoyable for everyone!
+Thank you for being part of Open Space! Let's keep this community friendly, respectful, and enjoyable for everyone!
 
 Join Us: https://chat.whatsapp.com/KGSwrSD9p2WAb9G2VGIQqH
 
